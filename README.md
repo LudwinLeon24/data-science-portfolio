@@ -1,11 +1,11 @@
-﻿# Portafolio de Data Science
+﻿# Data Science Portfolio
 
-Bienvenido a mi portafolio. Aquí encontrarás:
+Welcome to my portfolio. Here you'll find:
 
-- 📘 **Escuela**: Tareas y proyectos de cursos.
-- 🧪 **Ejercicios**: Prácticas de Python, pandas, estadística, etc.
-- 🚀 **Proyectos**: Análisis y modelos desarrollados de forma independiente.
+- 🎓 **Bootcamp**: Assignments and exercises from my formal training.
+- 📚 **Learning**: Practice notebooks on Python, pandas, statistics, and more.
+- 💼 **CaseStudies**: Realistic projects inspired by business problems.
 
 ---
 
-Hecho con ❤️ por [Ludwin Leon](https://github.com/LudwinLeon24)
+Made with ❤️ by [Ludwin Leon](https://github.com/LudwinLeon24)
